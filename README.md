@@ -6,3 +6,4 @@ Posisi letak ratu ditempatkan direpresentasikan sebagai '1' dan posisi lain dita
 <br/>2.printBoard(int (&board)[N]): untuk mencetak board saat ini.
 <br/>3.copyBoard(int (&board1)[N], int (&board2)[N]): meng-copy board ke board lainnya
 <br/>4.int calcEvaluationFunction(int (&board)[N]): untuk menghitung maximal local
+<br/>![hill](https://user-images.githubusercontent.com/56763570/78786983-7c72b380-795e-11ea-997a-a8c6664f92f4.PNG)<br/>
