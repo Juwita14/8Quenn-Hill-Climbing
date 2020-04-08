@@ -1,1 +1,1 @@
-# 8Quenn---Hill-Climbing
+# 8Quenn-Hill-Climbing
